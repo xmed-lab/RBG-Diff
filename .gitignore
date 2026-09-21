@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Training / eval artifacts
+logs/
+results/
+wandb/
+*.log
+
+# Large binaries (the released checkpoint under checkpoints/ is tracked
+# explicitly; ignore any other stray weight files)
+*.pkl
+!checkpoints/rbgdiff_sim_ema19.pkl
+!checkpoints/rbgdiff_real_ema19.pkl
+
+# OS
+.DS_Store

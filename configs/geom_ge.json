@@ -1,0 +1,4 @@
+{ "name":"ge","vendor":"GE","bodypart":"both",
+  "rotview":984,"nu":888,"du":1.0239,"dso":538.52,"dsd":946.746,"hu_factor":0.0186,
+  "angle_offset":1.5707963267948966,"angle_uniform":true,"flip_axis":1,
+  "mu_water":0.192,"recon_size":256,"fov":330.0 }

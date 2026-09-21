@@ -1,0 +1,4 @@
+{ "name":"siemens_abdomen","vendor":"SIEMENS","bodypart":"abdomen",
+  "rotview":2304,"nu":736,"du":1.2858,"dso":595.0,"dsd":1085.6,"hu_factor":0.0192,
+  "angle_offset":1.5707963267948966,"angle_uniform":true,"flip_axis":1,
+  "mu_water":0.192,"recon_size":256,"fov":330.0 }
